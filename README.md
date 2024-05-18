@@ -25,6 +25,7 @@ for the function.
 
 
  TASK 3:A file userInfo.js was created. A function createUserProfiles that takes an array of modified 
- names froem task 2 and returnss an array of objectss , each containing originalName, modifiedName, and
+ names from task 2 and returnss an array of objectss , each containing originalName, modifiedName, and
  id (auto-incremented starting from 1).
- Using the map function into an arrow function
+ Using the map function into an arrow function and using parameters name and index. It returns id , modified name
+ and original name
